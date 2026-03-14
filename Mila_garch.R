@@ -15,7 +15,7 @@ library(MSGARCH)
 
 library(help = MSGARCH)
 
-
+# Este es un mensaje de prueba
 Ret <- read_excel("Retornos.xlsx")
 
 
